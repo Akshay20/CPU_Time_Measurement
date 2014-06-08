@@ -1,0 +1,5 @@
+Write a C program for FFT.  Each element of the matrix is a 32-bit integer.  Ensure that
+your program can find FT for variable input size n. 
+
+Measure response time and CPU execution time. Consider different input sizes. What do 
+you conclude from these measurements? Present your results in an appropriate form. 
